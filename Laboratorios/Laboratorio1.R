@@ -1,5 +1,5 @@
 # Gastos mensuales
-#Israel Treviño
+#Santos Zarate
 300 + 240 + 1527 + 400 + 1500 + 1833
 celular <- 300
 celular
